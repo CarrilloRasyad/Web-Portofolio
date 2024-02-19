@@ -1,0 +1,23 @@
+/* @media (max-width: 768px) {
+    .home-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .home-img {
+        margin-top: 2rem; 
+        width: 70vw;
+    }
+
+    .home-img img {
+        width: 100%;
+        height: auto; 
+    }
+} */
+
+
+
+/* .home-content {
+    flex: 1; 
+    padding-right: 2rem; 
+} */
